@@ -1,0 +1,5 @@
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Com\bin\Debug\Niu.Com.dll
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Com\bin\Debug\Niu.Com.pdb
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Com\obj\Debug\Niu.Com.csproj.CoreCompileInputs.cache
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Com\obj\Debug\Niu.Com.dll
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Com\obj\Debug\Niu.Com.pdb

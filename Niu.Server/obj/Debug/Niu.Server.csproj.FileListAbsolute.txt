@@ -1,0 +1,14 @@
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\bin\Debug\Niu.Server.exe.config
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\bin\Debug\Niu.Server.exe
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\bin\Debug\Niu.Server.pdb
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\bin\Debug\CSkin.dll
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\bin\Debug\CSkin.xml
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\obj\Debug\Niu.Server.Form1.resources
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\obj\Debug\Niu.Server.Properties.Resources.resources
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\obj\Debug\Niu.Server.csproj.GenerateResource.Cache
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\obj\Debug\Niu.Server.csproj.CoreCompileInputs.cache
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\obj\Debug\Niu.Server.exe
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\obj\Debug\Niu.Server.pdb
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\obj\Debug\Niu.Server.csprojResolveAssemblyReference.cache
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\bin\Debug\Niu.Com.dll
+D:\F\学习\vs2017\netcore\Study.AspNetCore\Niu.Server\bin\Debug\Niu.Com.pdb
